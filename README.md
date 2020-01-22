@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/contacttarasenko/kenobi/_apis/build/status/olegtarasenko.pipelines-java?branchName=master)](https://dev.azure.com/contacttarasenko/kenobi/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
